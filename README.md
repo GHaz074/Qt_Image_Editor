@@ -1,2 +1,2 @@
 # Qt_Image_Editor
-Image editor that was made by PyQt5
+Image editor that was made in PyQt5
